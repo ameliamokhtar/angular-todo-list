@@ -1,2 +1,2 @@
 # angulat-todo-list
-just another mini projects 
+just another mini project
